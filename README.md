@@ -126,3 +126,9 @@ git commit --amend -m "Комментарий к коммиту"
 Отменить процесс слияния:
 
 git merge --abort
+
+git clone
+
+git merge
+
+git fetch
